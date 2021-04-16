@@ -1,0 +1,8 @@
+name: test-modules
+modules:
+  3v3ldo:
+    readme: readme.md
+    dir: 3v3ldo
+  5vpol:
+    readme: readme.md
+    dir: 5vpol
