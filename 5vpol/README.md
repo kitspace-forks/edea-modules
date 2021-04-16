@@ -57,5 +57,3 @@ I spent half a year validating this IC design before it was released to the mark
 Current limit is robust, and it also limits negative current when run in FPWM mode (MODE=high, see JP1) to around 1A. You can use it as a rudimentary bidirectional buck-boost if you so please!
 
 You can even use it as an inverting buck-boost converter! (connect GND to the pin labeled VOUT, VIN is VIN, GND is -Vout) Mind that in this setup Vin+abs(Vout) still can't be higher than 17V!
-
-Well designed, lovely IC, would recommend it anytime. Thanks Konrad and Hongcheng.
