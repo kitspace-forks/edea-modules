@@ -1,6 +1,6 @@
 # GD32E103CBT6
 
-![A preview render of the module](preview.png)
+![A preview render of the module](https://gitlab.com/edea-dev/test-modules/-/raw/main/GD32E103CBT6/preview.png)
 
 This module provides reference GD32E103 circuit in a QFP-48 package.
 All symbols are part of vanilla KiCad and the schematic has been annotated
