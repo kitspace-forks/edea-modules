@@ -9,3 +9,5 @@ modules:
   GD32E103CBT6:
     readme: README.md
     dir: GD32E103CBT6
+  USB-C:
+    dir: USB-C
