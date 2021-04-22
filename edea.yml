@@ -7,5 +7,5 @@ modules:
     readme: readme.md
     dir: 5vpol
   GD32E103CBT6:
-    readme: readme.md
+    readme: README.md
     dir: GD32E103CBT6
