@@ -11,3 +11,7 @@ modules:
     dir: GD32E103CBT6
   USB-C:
     dir: USB-C
+  MP2451:
+    dir: DCDC/MP2451
+  HT7533-a:
+    dir: LDO/HT7533-1
