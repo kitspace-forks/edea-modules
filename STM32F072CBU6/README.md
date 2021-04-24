@@ -1,6 +1,6 @@
-# STM32CBU6
+# STM32F072CBU6
 
-![A preview render of the module](https://gitlab.com/edea-dev/test-modules/-/raw/main/STM32CBU6/preview.png)
+![A preview render of the module](https://gitlab.com/edea-dev/test-modules/-/raw/main/STM32F072CBU6/preview.png)
 
 This module provides the STM32F072 in a 48-Pin VQFN package.
 
