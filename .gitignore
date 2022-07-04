@@ -6,3 +6,5 @@ fp-info-cache
 *.kicad_prl
 *-cache.lib
 sym-lib-table
+
+book
