@@ -28,7 +28,3 @@ compatible part, though make sure to double check the Crystal specs and max. fre
 by other parts.
 
 Trace widths, Vias and spacing are compatible with 2oz outer layer even.
-
-## Test
-
-Updated the readme, testing the revision picker.
