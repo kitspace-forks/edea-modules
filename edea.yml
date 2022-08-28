@@ -3,15 +3,31 @@ modules:
   3v3ldo:
     readme: readme.md
     dir: 3v3ldo
+    params:
+      - v_out_nom: 3.3
+      - i_out_max: 1
+      - v_in_max: 20
   5vpol:
     readme: readme.md
     dir: 5vpol
+    params:
+      - v_out_nom: 5
+      - i_out_max: 4
+      - v_in_max: 17
+      - v_in_min: 5.5
   GD32E103CBT6:
     readme: README.md
     dir: GD32E103CBT6
+    params:
+      - v_in_nom: 3.3
+      - u_arch: ARM Cortex-M3
   USB-C:
     dir: USB-C
   MP2451:
     dir: DCDC/MP2451
   HT7533-a:
     dir: LDO/HT7533-1
+    params:
+      - v_in_max: 15
+      - v_in_min: 4
+      - i_out_max: 0.5
