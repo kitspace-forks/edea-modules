@@ -31,8 +31,8 @@ modules:
       v_in_max: 15
       v_in_min: 4
       i_out_max: 0.5
-  NVC68261:
-    dir: NVC68261
+  NCV68261:
+    dir: NCV68261
     params:
       v_in_max: 32
       v_in_abs_max: 60
