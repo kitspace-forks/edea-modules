@@ -1,0 +1,17 @@
+name: test-modules
+modules:
+  3v3ldo:
+    readme: readme.md
+    dir: 3v3ldo
+  5vpol:
+    readme: readme.md
+    dir: 5vpol
+  GD32E103CBT6:
+    readme: README.md
+    dir: GD32E103CBT6
+  USB-C:
+    dir: USB-C
+  MP2451:
+    dir: DCDC/MP2451
+  HT7533-a:
+    dir: LDO/HT7533-1
