@@ -2,13 +2,13 @@
 
 ## Overview
 
-![](/5vpol/5vpol-board.png "Photo of the Fully Automated 17-V PoL")
+![Photo of the Fully Automated 17-V PoL](5vpol/doc/pcb.png)
 
 This design is based around the Texas Instruments TPS62135 converter.  
-[IC Datasheet](/5vpol/tps62135.pdf). [Board Schematic](/5vpol/5vpol_color.pdf).  
+[IC Datasheet](https://www.ti.com/lit/ds/symlink/tps62135.pdf).
 For layout, see the .kicad_pcb file in the repository.
 
-![](/5vpol/schematic.png "Schematic of the board.")
+![Schematic of the board](5vpol/doc/schematic.svg)
 
 ## Use
 
@@ -47,8 +47,6 @@ This DC/DC can run in 100% duty cycle mode, when the input voltage is lower or e
 |                    Output ON Indicator: | Yes. (pink LED)                                                    |
 |                      Power Good Output: | Yes.                                                               |
 |                                   RoHS: | Yes, plus tantalum-free.                                           |
-
-![](/5vpol/render.png "Render of the board with pins labeled")
 
 ## Test report
 
