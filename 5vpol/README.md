@@ -2,13 +2,13 @@
 
 ## Overview
 
-![Photo of the Fully Automated 17-V PoL](5vpol/doc/pcb.png)
+![Photo of the Fully Automated 17-V PoL](doc/pcb.png)
 
 This design is based around the Texas Instruments TPS62135 converter.  
 [IC Datasheet](https://www.ti.com/lit/ds/symlink/tps62135.pdf).
 For layout, see the .kicad_pcb file in the repository.
 
-![Schematic of the board](5vpol/doc/schematic.svg)
+![Schematic of the board](doc/schematic.svg)
 
 ## Use
 
